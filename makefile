@@ -2,7 +2,7 @@
 IMAGE_REG ?= docker.io
 IMAGE_REPO ?= emjeev82/dotnet-demoapp
 IMAGE_TAG ?= latest
-
+# Dummy Commit
 # Used by `deploy` target, sets Azure webap defaults, override as required
 AZURE_RES_GROUP ?= demoapps
 AZURE_REGION ?= northeurope
